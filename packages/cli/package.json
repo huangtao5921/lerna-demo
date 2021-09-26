@@ -29,5 +29,6 @@
   "dependencies": {
     "@ht-demo/cli-utils": "^0.0.1",
     "moment": "^2.29.1"
-  }
+  },
+  "gitHead": "7b56444f8b26a834075c75000a283588ed9e451d"
 }
