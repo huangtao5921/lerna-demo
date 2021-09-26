@@ -24,6 +24,7 @@
     "url": "https://github.com/huangtao5921/lerna-demo/issues"
   },
   "dependencies": {
-    "ht-demo-cli-utils": "^0.0.5"
+    "ht-demo-cli-utils": "^0.0.5",
+    "moment": "^2.29.1"
   }
 }

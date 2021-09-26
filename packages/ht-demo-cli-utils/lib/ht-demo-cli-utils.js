@@ -2,8 +2,9 @@
 'use strict';
 
 module.exports = htDemoCliUtils;
+var moment = require('moment');
 
 function htDemoCliUtils() {
-    // TODO
-    console.log('htDemoCliUtils');
+    console.log('现在时间是：', moment().format("YYYY-MM-DD HH:mm:ss"))
+    console.log('htDemoCliUtils do...');
 }
