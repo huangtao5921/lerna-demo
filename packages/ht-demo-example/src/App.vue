@@ -7,7 +7,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import htDemoCli from 'ht-demo-cli';
+import htDemoCli from 'ht-demo-cli'
 
 export default {
   name: 'App',
