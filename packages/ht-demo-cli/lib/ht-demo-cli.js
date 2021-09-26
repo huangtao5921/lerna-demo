@@ -2,8 +2,10 @@
 'use strict';
 
 module.exports = htDemoCli;
+var htDemCliUtils = require('ht-demo-cli-utils');
 
 function htDemoCli() {
     // TODO
-    console.log('htDemoCli123');
+    htDemCliUtils();
+    console.log('htDemoCli');
 }

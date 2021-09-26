@@ -7,5 +7,5 @@
 ```
 const htDemoCli = require('ht-demo-cli');
 
-// TODO: DEMONSTRATE API
+htDemoCli();
 ```
