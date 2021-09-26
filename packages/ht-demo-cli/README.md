@@ -1,11 +1,11 @@
-# `@ht-demo/cli`
+# `ht-demo-cli`
 
 > TODO: description
 
 ## Usage
 
 ```
-const cli = require('@ht-demo/cli');
+const htDemoCli = require('ht-demo-cli');
 
 // TODO: DEMONSTRATE API
 ```

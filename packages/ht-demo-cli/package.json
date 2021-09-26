@@ -1,11 +1,11 @@
 {
-  "name": "@ht-demo/cli",
+  "name": "ht-demo-cli",
   "version": "0.0.2",
   "description": "> TODO: description",
-  "author": "huangtao5921 <huangtao5921@163.com>",
+  "author": "huangtao <huangtao20@meituan.com>",
   "homepage": "https://github.com/huangtao5921/lerna-demo#readme",
   "license": "ISC",
-  "main": "lib/cli.js",
+  "main": "lib/ht-demo-cli.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/huangtao5921/lerna-demo.git"
@@ -27,8 +24,6 @@
     "url": "https://github.com/huangtao5921/lerna-demo/issues"
   },
   "dependencies": {
-    "@ht-demo/cli-utils": "^0.0.2",
-    "moment": "^2.29.1"
-  },
-  "gitHead": "7b56444f8b26a834075c75000a283588ed9e451d"
+    "ht-demo-cli-utils": "^0.0.2"
+  }
 }
