@@ -1,6 +1,6 @@
 {
   "name": "ht-demo-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "huangtao <huangtao20@meituan.com>",
   "homepage": "https://github.com/huangtao5921/lerna-demo#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/huangtao5921/lerna-demo/issues"
   },
   "dependencies": {
-    "ht-demo-cli-utils": "^0.0.3"
+    "ht-demo-cli-utils": "^0.0.4"
   }
 }
